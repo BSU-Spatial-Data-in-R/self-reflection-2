@@ -3,7 +3,7 @@
 This is the second of three self-reflections that you'll complete during the course. These provide an opportunity for me to learn more about you, check-in on how the course is going, and make sure that getting what you need from the course materials. This first reflection also helps us set the standards for your assessment in the course. As such, I'm asking that you complete this in a timely fashion and turn it in by Oct. 21.
 
 ## Instructions
-1. After you've joined the assignment repository, you should have this file (named Readme.md) inside of a R project named self-reflection-1-xx where xx is your github username (or initials).
+1. After you've joined the assignment repository, you should have this file (named Readme.md) inside of a R project named self-reflection-2-xx where xx is your github username (or initials).
 
 2. Once you've verified that you've correctly cloned the assignment repository, create a new Quarto document. Name this file self-reflection-2-xxx.qmd and give it a title (like M Williamson Self-Reflection 2). Make sure that you select the html output option (Quarto can do a lot of cool things, but the html format is the least-likely to cause you additional headaches). We'll be using Quarto throughout the course so it's worth checking out the other tutorials in the getting started section.
 
